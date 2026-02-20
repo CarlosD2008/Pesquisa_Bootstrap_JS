@@ -3,14 +3,13 @@
 Este repositório contém os exemplos práticos desenvolvidos para o trabalho de JavaScript, focando no funcionamento de APIs, requisições HTTP e manipulação dinâmica do DOM.
 
 ## 👥 Integrantes do Grupo
-[Arthur Ribeiro de Azevedo]
-[Carlos Daniel Gualberto dos Santos]
-[Gustavo Santana Rebolo]
-[Henry Meneze Cardoso]
-[Larrissa Eduarda braz da Silva]
-[Othavío Kauan Gomes Corrêa]
-[Rafaela Merlotto Parrilla]
-
+Arthur Ribeiro de Azevedo  
+Carlos Daniel Gualberto dos Santos  
+Gustavo Santana Rebolo  
+Henry Meneze Cardoso  
+Larrissa Eduarda braz da Silva  
+Othavío Kauan Gomes Corrêa  
+Rafaela Merlotto Parrilla    
 
 ---
 
